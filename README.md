@@ -1,4 +1,4 @@
-# make-dating-website-in-laravel
+# Make Dating Website in Laravel 6 | <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join">Download</a> (with DB)
 Making Dating / Social Networking Website in Laravel 5.6 / 5.7 / 5.8 / 6.0 (Along with Chat feature)
 
 Follow below playlist to make Dating / Social Networking Website in Laravel 5.6 / 5.7 / 5.8 / 6.0
